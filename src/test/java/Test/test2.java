@@ -35,7 +35,7 @@ public class test2 {
     checkFeatureAvailability(enterpriseRow, "Custom user groups", true);
     checkFeatureAvailability(teamRow, "Custom user groups", false);
 
-    // Check 'User adoption'
+    // Check 'User adoption'//
     checkFeatureAvailability(enterpriseRow, "User adoption", true);
     checkFeatureAvailability(teamRow, "User adoption", true);
 
